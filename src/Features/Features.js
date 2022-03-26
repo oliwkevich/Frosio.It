@@ -16,7 +16,7 @@ export const Features = () => {
                 <div className='container flex flex-col lg:flex-row items-center justify-center gap-x-24'>
                     {/*Image*/}
                     <div className='flex flex-1 justify-center z-10 mb-10 lg:mb-0'>
-                        <img className='w-5/6 h-5/6 sm:w-3/4 sm:h-3/4 md:w-full md:h-full rounded-md drop-shadow-2xl border border-blue-500 sm:border-4 ml-12' src='/img/furniture2.png' alt="image1"/>
+                        <img className='w-5/6 h-5/6 sm:w-3/4 sm:h-3/4 md:w-full md:h-full rounded-md drop-shadow-2xl border border-blue-500 sm:border-4 ml-12' src='https://opengameart.org/sites/default/files/Furniturepack2.jpg' alt="image1"/>
                     </div>
                     {/*Content*/}
                     <div className='flex flex-1 flex-col items-center lg:items-start'>

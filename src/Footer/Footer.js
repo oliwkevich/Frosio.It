@@ -14,8 +14,8 @@ export const Footer = () => {
                     </ul>
                 </div>
                 <div className='flex gap-10 mt-12 md:mt-0 list-none mr-4'>
-                    <li><img width='20' height='20' src='/img/fb.png' alt="fb"/></li>
-                    <li><img width='20' height='20' src='/img/inst.png' alt="inst"/></li>
+                    <li><img width='20' height='20' src='https://cdn-icons-png.flaticon.com/512/124/124010.png' alt="fb"/></li>
+                    <li><img width='20' height='20' src='https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/1200px-Instagram-Icon.png' alt="inst"/></li>
                 </div>
             </div>
         </footer>
