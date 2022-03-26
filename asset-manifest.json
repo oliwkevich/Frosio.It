@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Frosio.It/static/css/main.64b0ed33.css",
-    "main.js": "/Frosio.It/static/js/main.4a6cc2d5.js",
+    "main.css": "/Frosio.It/static/css/main.5628faf7.css",
+    "main.js": "/Frosio.It/static/js/main.dee7fb56.js",
     "index.html": "/Frosio.It/index.html",
-    "main.64b0ed33.css.map": "/Frosio.It/static/css/main.64b0ed33.css.map",
-    "main.4a6cc2d5.js.map": "/Frosio.It/static/js/main.4a6cc2d5.js.map"
+    "main.5628faf7.css.map": "/Frosio.It/static/css/main.5628faf7.css.map",
+    "main.dee7fb56.js.map": "/Frosio.It/static/js/main.dee7fb56.js.map"
   },
   "entrypoints": [
-    "static/css/main.64b0ed33.css",
-    "static/js/main.4a6cc2d5.js"
+    "static/css/main.5628faf7.css",
+    "static/js/main.dee7fb56.js"
   ]
 }
