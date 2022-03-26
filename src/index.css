@@ -1,0 +1,26 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/*Fonts*/
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Roboto:ital@1&display=swap');
+/*Fonts*/
+
+/*Button*/
+.btn {
+    @apply shadow-md py-3 px-6 rounded-md transition duration-300
+}
+
+/*Button*/
+/*Button Blue*/
+.btn-blue {
+    @apply bg-blue-600 text-white
+}
+
+/*Button Blue*/
+/*Button White*/
+.btn-white {
+    @apply bg-white
+}
+
+/*Button White*/
